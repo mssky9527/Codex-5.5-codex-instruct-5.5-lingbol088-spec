@@ -1,3 +1,7 @@
+ai定制项目供需频道https://t.me/+heFGdl5IodFjMDll
+
+
+
 # Codex破限 5.5 / codex-instruct-5.5
 
 > 针对 GPT-5.5 的 Codex CLI 破甲工具 — 一键注入无限制模式系统指令  
@@ -80,6 +84,7 @@ Exploits official config mechanism. No binary mod, no MITM, no process tampering
 ## License
 
 MIT
+
 
 
 
